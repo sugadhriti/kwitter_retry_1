@@ -1,0 +1,35 @@
+#div
+{
+    height: 10px;
+    width: 100px;
+    text-align: center;
+}
+
+#sm1
+{
+    height: 20px;
+    width: 100px;
+}
+
+#kwitter_image
+{
+    height: 20px;
+    width: 100px;
+}
+
+#user_name
+{
+    background-color: #d197e6;
+    text-align: center;
+}
+
+#login_button
+{
+    width: 100px;
+}
+
+#heading{
+	font-weight: bold;
+	font-family:Courier 
+}
+
